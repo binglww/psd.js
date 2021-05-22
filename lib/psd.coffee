@@ -17,7 +17,7 @@
 # console.log psd.tree().export()
 # ```
 # 
-RSVP = require 'rsvp'
+RSVP = require(('rsvp')
 {Module} = require 'coffeescript-module'
 
 File      = require './psd/file.coffee'
